@@ -24,4 +24,3 @@ console.log(url.includes("mohsin"));
 
 // console.log(gameName.split("-"));
 console.log(gameName.concat());
-console.log(gameName.lastIndexOf("d"));
